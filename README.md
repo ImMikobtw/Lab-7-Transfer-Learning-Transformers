@@ -23,5 +23,5 @@
 ## Running the Code
 
 ```bash
-python lab7_transfer_learning.py
+python lab7.py
 ```
