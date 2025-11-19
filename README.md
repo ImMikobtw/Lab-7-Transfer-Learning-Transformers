@@ -22,6 +22,8 @@
 
 ## Running the Code
 
+```
+
 ```bash
 python lab7.py
 ```
