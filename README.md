@@ -19,11 +19,8 @@
 - Transformers (BERT, GPT)  
 
 ---
-
-## Running the Code
-
 ```
-
+## Running the Code
 ```bash
 python lab7.py
 ```
